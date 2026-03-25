@@ -10,7 +10,7 @@
 
   ## Screens
 
-![Home](home page.png)
+![Home](homepage.png)
 ![Profile](profile page.png)
 ![Report](report.png)
 ![Saved](saved location.png)
