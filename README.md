@@ -1,2 +1,2 @@
 # walkSafe
-“Interactive pedestrian app built with Flutter – UI/UX design and Flutter development.”
+“WalkSafe is a concept mobile app designed in Figma, focusing on improving pedestrian safety and navigation"
