@@ -10,11 +10,11 @@
 
   ## Screens
 
-![Home](homepage.png)
-![Profile](profilepage.png)
+![Home](home page.png)
+![Profile](profile page.png)
 ![Report](report.png)
-![Saved](savedlocation.png)
-![Request](requsetforanewroad.png)
+![Saved](saved location.png)
+![Request](requset for a new road.png)
 
 ## Tools Used
 - Figma (UI/UX Design)
